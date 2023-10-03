@@ -1,0 +1,26 @@
+body{
+    background-image: linear-gradient(to right, rgb(67, 67, 67) 0%, black 100%);
+}
+
+.heading{
+    background-color: grey;
+}
+
+#question{
+    color: grey;
+    text-align: left;
+}
+li{
+    color: grey;
+    list-style: none;
+    text-align: left;
+    margin: 10px;
+}
+
+.col-md-7{
+    margin-top: 300px!important;
+}
+button{
+    float: left;
+}
+
